@@ -1,0 +1,422 @@
+[
+  {
+    "path": ".agents/skills/audio-production/SKILL.md",
+    "sha256": "161EECCA00F2D4BF4093F7084AE9B07884018F9FFA796EC00BA3D2A45A367320",
+    "matchesSource": true
+  },
+  {
+    "path": ".agents/skills/audio-production/agents/openai.yaml",
+    "sha256": "BB3BBB44FD9A61E90EFA8CBEE5A251123AA1F894D73D50FBA53D311FC4B16B78",
+    "matchesSource": true
+  },
+  {
+    "path": ".agents/skills/content-ideas/SKILL.md",
+    "sha256": "60C05B24AB395AEBEA00908D6D117EB618E7196115ADCF2ADB855F2814561DDA",
+    "matchesSource": true
+  },
+  {
+    "path": ".agents/skills/content-ideas/agents/openai.yaml",
+    "sha256": "72F3D30825BB2CC805E9CA30D7B8DDD4663E188F16537A5035EA1AB5C6B132E6",
+    "matchesSource": true
+  },
+  {
+    "path": ".agents/skills/image-edit/SKILL.md",
+    "sha256": "4EFAF671FDB67C2EF860259F9BDDBC30129D90EB8296FCDA4F4345632F30819D",
+    "matchesSource": true
+  },
+  {
+    "path": ".agents/skills/image-edit/agents/openai.yaml",
+    "sha256": "D316C9893907C698DBCFA9DD399004C1A122AF881713F7A7E3DE5AEB2883364D",
+    "matchesSource": true
+  },
+  {
+    "path": ".agents/skills/motion-graphics/SKILL.md",
+    "sha256": "A98E8F0B15A7AA13789CAB671DF396899D63BB9071815E65D8082621B848567E",
+    "matchesSource": true
+  },
+  {
+    "path": ".agents/skills/motion-graphics/agents/openai.yaml",
+    "sha256": "FAA74AC63E80890FD8D4F222F68FC9E1A58CD5C4059F88E12BF609AD6426C5D4",
+    "matchesSource": true
+  },
+  {
+    "path": ".agents/skills/podcast-create/SKILL.md",
+    "sha256": "1984776A689793C21A4AB4798EE5F74358D0B7D925E9E828421737434B450D8E",
+    "matchesSource": true
+  },
+  {
+    "path": ".agents/skills/podcast-create/agents/openai.yaml",
+    "sha256": "247355D0895DD3BFC086F249D07468FCADEFE02734C8BFEEF2CE1AC98AF51A15",
+    "matchesSource": true
+  },
+  {
+    "path": ".agents/skills/product-creative/SKILL.md",
+    "sha256": "74046B48D171ECA6B6BC62BBB0F46C7FC2057672A97CE4C0144C91BAA6EDBED4",
+    "matchesSource": true
+  },
+  {
+    "path": ".agents/skills/product-creative/agents/openai.yaml",
+    "sha256": "F16CF24041642109CF6EDF40BB72EBF2726CD1FC6D7737897DFF4EA0DE07278F",
+    "matchesSource": true
+  },
+  {
+    "path": ".agents/skills/video-generative/SKILL.md",
+    "sha256": "1E3C48D2A42A64F5A006993E49E925263353DD1CD89BC7D02F9A84CC7EFF8A84",
+    "matchesSource": true
+  },
+  {
+    "path": ".agents/skills/video-generative/agents/openai.yaml",
+    "sha256": "D46859D832370C93925654FA7332EFA1D045EDA8A56835A00C1ABCB975CDD31F",
+    "matchesSource": true
+  },
+  {
+    "path": ".agents/skills/video-rough-cut/SKILL.md",
+    "sha256": "693EF03165ED12CE94D6222F6E93F7C3F4C7673FFEC61395073B67AF091FFD66",
+    "matchesSource": true
+  },
+  {
+    "path": ".agents/skills/video-rough-cut/agents/openai.yaml",
+    "sha256": "4439FF109D2ACECFA8C66DF9AEE55831D770D4AC3D65188BFABA28ED2E984417",
+    "matchesSource": true
+  },
+  {
+    "path": ".agents/skills/video-shorts/SKILL.md",
+    "sha256": "0FD1AB9E6BA5251C167D861F2486B9958E92A73FFD18997F6BDAD9DB32C59FC7",
+    "matchesSource": true
+  },
+  {
+    "path": ".agents/skills/video-shorts/agents/openai.yaml",
+    "sha256": "3A41CDF597305D8BF57F24375409F8676D2B7E702FA369BD21ABE68A5D3D5D07",
+    "matchesSource": true
+  },
+  {
+    "path": ".agents/skills/video-style/SKILL.md",
+    "sha256": "36980208ADD0DCD3D1D1762F26F0C7EC693C3A90819DAF8F594378D24C5E865C",
+    "matchesSource": true
+  },
+  {
+    "path": ".agents/skills/video-style/agents/openai.yaml",
+    "sha256": "88AA19CE6C6C9396A4B1C434CE9245171DC5ADA30B1A054131DCCEFE5BBF8A1F",
+    "matchesSource": true
+  },
+  {
+    "path": ".agents/skills/video-template-edit/SKILL.md",
+    "sha256": "984D0E654BAAF56D2BA4D6415A2C756AFDAA9FB7C65785080660B79EA506980A",
+    "matchesSource": true
+  },
+  {
+    "path": ".agents/skills/video-template-edit/agents/openai.yaml",
+    "sha256": "CD86B58348FD26DF2956EE60936C5C4D06084E4EC5134DE28270433BF04EA3DC",
+    "matchesSource": true
+  },
+  {
+    "path": ".agents/skills/video-whiteboard/SKILL.md",
+    "sha256": "3D8A4CFC194EB8DC4AAC3023CCD472328F2E81284841D4DC4D6E5239636B4FC1",
+    "matchesSource": true
+  },
+  {
+    "path": ".agents/skills/video-whiteboard/agents/openai.yaml",
+    "sha256": "904B7BC5C63855782D56AC02D85576D9CA8ACF1ABAE7198C8EE0BCD67D325E1F",
+    "matchesSource": true
+  },
+  {
+    "path": ".agents/skills/work-build/SKILL.md",
+    "sha256": "4B713F504121C084A96972C1923308B4AB365FDFC0F4FAC71736484050426D72",
+    "matchesSource": true
+  },
+  {
+    "path": ".agents/skills/work-build/agents/openai.yaml",
+    "sha256": "4F95E2A3E2A6EEBF9E482D2E8D5882BCD0F2B8CFD6E1AF89B47374635B82DD78",
+    "matchesSource": true
+  },
+  {
+    "path": ".agents/skills/work-content/SKILL.md",
+    "sha256": "E205203FA5DD328828881762A8ACA2CABA73EE23E9E15CCC14ED85487D218806",
+    "matchesSource": true
+  },
+  {
+    "path": ".agents/skills/work-content/agents/openai.yaml",
+    "sha256": "C9BF487C9197EA4C2F2F0A5DB75B7706BC12974B922552759AFDB3425CA00572",
+    "matchesSource": true
+  },
+  {
+    "path": ".agents/skills/work-freelance/SKILL.md",
+    "sha256": "9F2AB0895DB277087727F9B46DC70B0F583815877E41A071AE93940E0B4A59C2",
+    "matchesSource": true
+  },
+  {
+    "path": ".agents/skills/work-freelance/agents/openai.yaml",
+    "sha256": "6DC70FCE43AC754E5C1BCDC894D57C92232DD22A519E31178062E0CFA3491B98",
+    "matchesSource": true
+  },
+  {
+    "path": ".agents/skills/work-media/SKILL.md",
+    "sha256": "CE83F7CD6D45B772E829A8EEE1DE78D55C2E6575BE407F96EC97E7F74CB5C020",
+    "matchesSource": true
+  },
+  {
+    "path": ".agents/skills/work-media/agents/openai.yaml",
+    "sha256": "6441542298CE8862988FFC3E2549361A62F616D5073C460E58F1124A41D15974",
+    "matchesSource": true
+  },
+  {
+    "path": ".agents/skills/work-research/SKILL.md",
+    "sha256": "545B8FE3E761B2D5BEA695E71CE6BC962C506BCA19FD97C44D08E0AC10993B31",
+    "matchesSource": true
+  },
+  {
+    "path": ".agents/skills/work-research/agents/openai.yaml",
+    "sha256": "0B9C674D0FF72F85E66DE2EC3824EE3985A47B58A2F6863F65231C0F704B9B73",
+    "matchesSource": true
+  },
+  {
+    "path": ".agents/skills/work-start/SKILL.md",
+    "sha256": "2D28725C5F6D4D47FCEF4425B3D93A9F7D1C697D13806934893D3E53406F1A19",
+    "matchesSource": true
+  },
+  {
+    "path": ".agents/skills/work-start/agents/openai.yaml",
+    "sha256": "D0FB3CE7DE6039C948E35BD9F73C262A22F9E588A773A3761949FF4C32F8486E",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/video-use/.gitignore",
+    "sha256": "96F3170C59DC6CDF659330D43A713D0A2F73AC4B3EE68202ADF98B99B22F096D",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/video-use/install.md",
+    "sha256": "A219C2A27C538B2FBA0C042361C55A6B21FD7B9ADBF9D09AB36736E49D66A20B",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/video-use/LICENSE",
+    "sha256": "F77BF226B54339F5A8891F9EDCFADF231C9CD9017A9AA3D9F566D4D6264B541D",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/video-use/poster.html",
+    "sha256": "965047F0159E02405A9A761DEDC3B8FDD6BD777A84A920BE1F4085617E7C115F",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/video-use/pyproject.toml",
+    "sha256": "EDE0F9ABA13097AB11A4AA2E82794A797BB59BEE09FFF33FD544ED41D03E6C23",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/video-use/README.md",
+    "sha256": "F7AD22C6A700828D08B26F2AE34248C76DE75F6F75BF622999511570883626A6",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/video-use/SKILL.md",
+    "sha256": "4D4D3B30ED6B93DC1FDDC8919771AE211DB337D4B71E5987C916EAC9ADB047BA",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/video-use/uv.lock",
+    "sha256": "0C2FA7DC5FBE4E3A100EBA6E3DA47E838CCB23441759F9710DE14DACCDA310BA",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/video-use/helpers/grade.py",
+    "sha256": "2FFE4D1D3D41B82B1C1ED703CDF3AC478E893089B20E8433D09C7D6F4AAE56F8",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/video-use/helpers/pack_transcripts.py",
+    "sha256": "F56C643394A7E437F9B2ADBDE58BA5B07FA4CDED0B9DEDC6A166F3DCB53FFB11",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/video-use/helpers/render.py",
+    "sha256": "FC8AFC3285AC3E1CC9D29044B2DCCFD822D8DCC3CE7C9F6BAC571AE40096793E",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/video-use/helpers/timeline_view.py",
+    "sha256": "4311FB57FA248AB6AB1032984C6075062DDFF2FDEF860938CA91AECAC372F781",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/video-use/helpers/transcribe_batch.py",
+    "sha256": "A77133C3919F976EE58E3928BA9EF53F7CD22032D5016BAE9D54D90066A0AE9F",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/video-use/helpers/transcribe.py",
+    "sha256": "F484D129625208F328DE430E2A417E0D5961903A5A121CA24AD01FA5AA4044AD",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/video-use/skills/manim-video/README.md",
+    "sha256": "8AFAA305E8BB893DB66AFE6E64AD1D97B0CCCAFC1112506B0EC0C06836E5D388",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/video-use/skills/manim-video/SKILL.md",
+    "sha256": "AB9541AB370CF989FE77CDA4B46709EA5947A973F5187582AB7EEF9C44851244",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/video-use/skills/manim-video/references/animation-design-thinking.md",
+    "sha256": "4BA9C29C53072EF4A9E5D3123E7AE1D3BAFECF8EFFFF1EE36EB0DA1F999EE5F8",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/video-use/skills/manim-video/references/animations.md",
+    "sha256": "282CEDF9DA9796508B563F19A60CF05A39BA4BEE838C5AFF2F479CBE251D2687",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/video-use/skills/manim-video/references/camera-and-3d.md",
+    "sha256": "8B34D15636463E130E0995A73C044E93894D66322CA36F10A853CFC6C87DCCF2",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/video-use/skills/manim-video/references/decorations.md",
+    "sha256": "8800AA7977A23444344BE5FC0F98660D59B75403AA0F64C8CC5671313E2336C0",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/video-use/skills/manim-video/references/equations.md",
+    "sha256": "77B9AA93BB84141D68BFC35744AAE91ED2875F09ABC5D6344F51146621BD7BB5",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/video-use/skills/manim-video/references/graphs-and-data.md",
+    "sha256": "FF977BBADED84F66DC818BD4E76ABC10C94A2FE7521A2BED3067CA4D5ECA12C8",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/video-use/skills/manim-video/references/mobjects.md",
+    "sha256": "786E953D824DC5B989D62919DD81532F40D0A4A2A1D5FC533C4D7B5821BEF4D5",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/video-use/skills/manim-video/references/paper-explainer.md",
+    "sha256": "7526A2A79D7F52D4E5C32F4C1EF7E9CCBDCC624CF33D6A79ED08585A2272A5AD",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/video-use/skills/manim-video/references/production-quality.md",
+    "sha256": "5B24C7F822E200210631A339DCE826E7FC5BECD45D9F415269B1E06EFEF4053F",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/video-use/skills/manim-video/references/rendering.md",
+    "sha256": "C7330C82060835B1B0AD8DB32BDF28DBA00B80E25E2A46EAD4419C4CBCC50E7B",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/video-use/skills/manim-video/references/scene-planning.md",
+    "sha256": "C2A57DECE2F64306283EB214E3EA993C76334231B6E06857E96964AECB43390D",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/video-use/skills/manim-video/references/troubleshooting.md",
+    "sha256": "7E7817F2E13C0367774D8ADB88FDB0996D6F29EF76FD488248310EB9395368B4",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/video-use/skills/manim-video/references/updaters-and-trackers.md",
+    "sha256": "086DB44E64B938A36FF881DEA685ADB5B1AEA9D1FD73754B7B55BF8FCDBB1EA7",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/video-use/skills/manim-video/references/visual-design.md",
+    "sha256": "631303301A63067D55E9D675587BBBAA1C95B6E8AF628EF89AB203E56534ABD8",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/video-use/skills/manim-video/scripts/setup.sh",
+    "sha256": "3406438DBD88F1AAB196F86DE4E93E93F735B3F56897C4A70EAEAA413F9DF74D",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/video-use/static/timeline-view.svg",
+    "sha256": "A86C18C5E287F0FE850578A46FD9AD4E01A584FA16A93E03DDB16AEC72B6737E",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/video-use/static/video-use-banner.png",
+    "sha256": "A22497EFC42640C79B921030E430D61F8F4A6005D83475CADEEB877320A76EB7",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/video-use/tests/test_render_captions.py",
+    "sha256": "71FE2C108FDACE4714D8E78D621305964743C79A87FD8A95CB57E83A96E7C64F",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/video-use/tests/test_render_fps.py",
+    "sha256": "5D5DD3445913CAFD7D3BB29F46BBBE42AFAD47DBE5F3AFE7FBA6BDB88E9278CC",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/video-use/tests/test_render_orientation.py",
+    "sha256": "71E1FD2F99C0E440FFE78802BDD0A1B483F673BACD2ED422A192A7A41ABFFA67",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/video-use/video_use.egg-info/dependency_links.txt",
+    "sha256": "01BA4719C80B6FE911B091A7C05124B64EEECE964E09C058EF8F9805DACA546B",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/video-use/video_use.egg-info/PKG-INFO",
+    "sha256": "1471F489599FF207E6991BC41A6C51D7595F52C09B86AAD7B967223D873C4AEB",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/video-use/video_use.egg-info/requires.txt",
+    "sha256": "81CE16AA456AE6CA982094DF3898C06575C577162C36B07688A14F1B074A0473",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/video-use/video_use.egg-info/SOURCES.txt",
+    "sha256": "2655DDB7EA2A6E61758E135D94E9BFDA8068038743858B35E3C5F79123B37C5E",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/video-use/video_use.egg-info/top_level.txt",
+    "sha256": "01BA4719C80B6FE911B091A7C05124B64EEECE964E09C058EF8F9805DACA546B",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/local-video-factory/SKILL.md",
+    "sha256": "B7592D4ED27B263B59B55FA5BB61B9F6433C32EEF54E5804EBB8D248ED8019F3",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/local-video-factory/agents/openai.yaml",
+    "sha256": "9C57C1E5A91E81057CA5F8749CDBEDF8ECFC021CF69CD23DC1F538444F8855D2",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/local-video-factory/references/homemade.md",
+    "sha256": "F19D6B4C24DEB7889E99FC90A41CA46C15D711F766AA1824E90EEED2B1AEC7AE",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/local-video-factory/references/milk-tea.md",
+    "sha256": "04103B3DFCA1AC6F5BA404D9A063573D5A244E2036E3BCCBB3A02F20EF365225",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/local-video-factory/references/platforms.md",
+    "sha256": "80B4BC47A04EBE83CD01F1BC2A519148AA9AAB0EC9462E770A002203397F698B",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/local-video-factory/scripts/test_video_factory.py",
+    "sha256": "9A6727977346BFC3A78F1080E9957577A94C5A2E77CA56DBA14DC2545FD5FE50",
+    "matchesSource": true
+  },
+  {
+    "path": "vendor/local-video-factory/scripts/video_factory.py",
+    "sha256": "BE8004205867AB7D81CE686700C2CE2EE9D78D98FA8C266DAAF249C2BBB17A73",
+    "matchesSource": true
+  }
+]

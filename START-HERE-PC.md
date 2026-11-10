@@ -4,7 +4,9 @@ Hãy thực hiện PC-PLAN.md đến khi cài và kiểm tra xong; đây là sou
 
 ## Bắt đầu
 
-Clone repository này vào D:/local-video-factory. Nếu chưa có Git, tải ZIP bằng trình duyệt, chọn lưu vào D:/Codex/downloads rồi giải nén source vào D:/local-video-factory. Mở folder đó bằng Codex, đọc AGENTS.md và PC-PLAN.md.
+Clone repository này vào D:/local-video-factory. Nếu chưa có Git, tải ZIP bằng trình duyệt, chọn lưu vào D:/Codex/downloads rồi giải nén source vào D:/local-video-factory. Mở folder đó bằng Codex, đọc AGENTS.md, SKILLS-HANDOFF.md và PC-PLAN.md.
+
+Đích bàn giao gồm cả kiến thức/quy trình và công cụ chạy. Phải khôi phục, đối chiếu và thử định tuyến skills theo SKILLS-HANDOFF.md; mở được editor chưa hoàn tất bàn giao. Có 18 skills Work Hub trong .agents/skills, video-use kèm helpers trong vendor/video-use và skill cá nhân cũ trong vendor/local-video-factory.
 
 Prompt cho Codex:
 
@@ -22,4 +24,4 @@ Tài liệu cũ có link tới outputs máy nguồn; chúng là lịch sử, kh�
 ## Trạng thái bàn giao
 
 Source được mang theo cả giao diện và các script hiện có. Bộ cài tự động và hỗ trợ D hoàn toàn của các desktop app vẫn cần được Codex trên PC triển khai và kiểm chứng theo kế hoạch. Không suy ra cài đủ chỉ từ clone thành công.
-`nKhi cài, đăng ký vendor/video-use thành skill .agents/skills/video-use bằng bản sao hoặc cơ chế liên kết local phù hợp; đường dẫn skill của máy nguồn không được đưa vào Git.
+Khi cài, đăng ký vendor/video-use thành skill .agents/skills/video-use bằng bản sao hoặc cơ chế liên kết local phù hợp; đường dẫn skill của máy nguồn không được đưa vào Git. Khôi phục skill cá nhân cũ và tài liệu nguồn theo SKILLS-HANDOFF.md.

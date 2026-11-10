@@ -1,0 +1,220 @@
+{
+  "type": "documentation static checks; no runtime or market acceptance",
+  "checks": [
+    {
+      "check": "workflow sections",
+      "status": "PASS"
+    },
+    {
+      "check": "20 entry documents link common workflow",
+      "status": "PASS"
+    },
+    {
+      "check": "existing lines preserved: AGENTS.md",
+      "status": "PASS"
+    },
+    {
+      "check": "existing lines preserved: README.md",
+      "status": "PASS"
+    },
+    {
+      "check": "existing lines preserved: .agents/skills/audio-production/SKILL.md",
+      "status": "PASS"
+    },
+    {
+      "check": "existing lines preserved: .agents/skills/content-ideas/SKILL.md",
+      "status": "PASS"
+    },
+    {
+      "check": "existing lines preserved: .agents/skills/image-edit/SKILL.md",
+      "status": "PASS"
+    },
+    {
+      "check": "existing lines preserved: .agents/skills/motion-graphics/SKILL.md",
+      "status": "PASS"
+    },
+    {
+      "check": "existing lines preserved: .agents/skills/podcast-create/SKILL.md",
+      "status": "PASS"
+    },
+    {
+      "check": "existing lines preserved: .agents/skills/product-creative/SKILL.md",
+      "status": "PASS"
+    },
+    {
+      "check": "existing lines preserved: .agents/skills/video-generative/SKILL.md",
+      "status": "PASS"
+    },
+    {
+      "check": "existing lines preserved: .agents/skills/video-rough-cut/SKILL.md",
+      "status": "PASS"
+    },
+    {
+      "check": "existing lines preserved: .agents/skills/video-shorts/SKILL.md",
+      "status": "PASS"
+    },
+    {
+      "check": "existing lines preserved: .agents/skills/video-style/SKILL.md",
+      "status": "PASS"
+    },
+    {
+      "check": "existing lines preserved: .agents/skills/video-template-edit/SKILL.md",
+      "status": "PASS"
+    },
+    {
+      "check": "existing lines preserved: .agents/skills/video-whiteboard/SKILL.md",
+      "status": "PASS"
+    },
+    {
+      "check": "existing lines preserved: .agents/skills/work-build/SKILL.md",
+      "status": "PASS"
+    },
+    {
+      "check": "existing lines preserved: .agents/skills/work-content/SKILL.md",
+      "status": "PASS"
+    },
+    {
+      "check": "existing lines preserved: .agents/skills/work-freelance/SKILL.md",
+      "status": "PASS"
+    },
+    {
+      "check": "existing lines preserved: .agents/skills/work-media/SKILL.md",
+      "status": "PASS"
+    },
+    {
+      "check": "existing lines preserved: .agents/skills/work-research/SKILL.md",
+      "status": "PASS"
+    },
+    {
+      "check": "existing lines preserved: .agents/skills/work-start/SKILL.md",
+      "status": "PASS"
+    },
+    {
+      "check": "skill metadata: audio-production",
+      "status": "PASS"
+    },
+    {
+      "check": "skill metadata: content-ideas",
+      "status": "PASS"
+    },
+    {
+      "check": "skill metadata: image-edit",
+      "status": "PASS"
+    },
+    {
+      "check": "skill metadata: motion-graphics",
+      "status": "PASS"
+    },
+    {
+      "check": "skill metadata: podcast-create",
+      "status": "PASS"
+    },
+    {
+      "check": "skill metadata: product-creative",
+      "status": "PASS"
+    },
+    {
+      "check": "skill metadata: video-generative",
+      "status": "PASS"
+    },
+    {
+      "check": "skill metadata: video-rough-cut",
+      "status": "PASS"
+    },
+    {
+      "check": "skill metadata: video-shorts",
+      "status": "PASS"
+    },
+    {
+      "check": "skill metadata: video-style",
+      "status": "PASS"
+    },
+    {
+      "check": "skill metadata: video-template-edit",
+      "status": "PASS"
+    },
+    {
+      "check": "skill metadata: video-whiteboard",
+      "status": "PASS"
+    },
+    {
+      "check": "skill metadata: work-build",
+      "status": "PASS"
+    },
+    {
+      "check": "skill metadata: work-content",
+      "status": "PASS"
+    },
+    {
+      "check": "skill metadata: work-freelance",
+      "status": "PASS"
+    },
+    {
+      "check": "skill metadata: work-media",
+      "status": "PASS"
+    },
+    {
+      "check": "skill metadata: work-research",
+      "status": "PASS"
+    },
+    {
+      "check": "skill metadata: work-start",
+      "status": "PASS"
+    },
+    {
+      "check": "routing target: AGENTS.md",
+      "status": "PASS"
+    },
+    {
+      "check": "routing target: TOOLS.md",
+      "status": "PASS"
+    },
+    {
+      "check": "routing target: prompt.md",
+      "status": "PASS"
+    },
+    {
+      "check": "routing target: editor/README.md",
+      "status": "PASS"
+    },
+    {
+      "check": "routing target: .agents/skills/work-start/SKILL.md",
+      "status": "PASS"
+    },
+    {
+      "check": "routing target: .agents/skills/work-research/SKILL.md",
+      "status": "PASS"
+    },
+    {
+      "check": "routing target: .agents/skills/content-ideas/SKILL.md",
+      "status": "PASS"
+    },
+    {
+      "check": "routing target: .agents/skills/work-content/SKILL.md",
+      "status": "PASS"
+    },
+    {
+      "check": "routing target: .agents/skills/work-freelance/SKILL.md",
+      "status": "PASS"
+    },
+    {
+      "check": "routing target: .agents/skills/work-build/SKILL.md",
+      "status": "PASS"
+    },
+    {
+      "check": "routing target: .agents/skills/work-media/SKILL.md",
+      "status": "PASS"
+    },
+    {
+      "check": "routing target: .agents/skills/product-creative/SKILL.md",
+      "status": "PASS"
+    },
+    {
+      "check": "protected pipeline and editor files unchanged",
+      "status": "PASS"
+    }
+  ],
+  "protected_files": 16,
+  "passed": 53,
+  "failed": 0
+}

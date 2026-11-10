@@ -1,0 +1,92 @@
+[
+  {
+    "skill": "audio-production",
+    "exit": 0,
+    "output": "Skill is valid!\n"
+  },
+  {
+    "skill": "content-ideas",
+    "exit": 0,
+    "output": "Skill is valid!\n"
+  },
+  {
+    "skill": "image-edit",
+    "exit": 0,
+    "output": "Skill is valid!\n"
+  },
+  {
+    "skill": "motion-graphics",
+    "exit": 0,
+    "output": "Skill is valid!\n"
+  },
+  {
+    "skill": "podcast-create",
+    "exit": 0,
+    "output": "Skill is valid!\n"
+  },
+  {
+    "skill": "product-creative",
+    "exit": 0,
+    "output": "Skill is valid!\n"
+  },
+  {
+    "skill": "video-generative",
+    "exit": 0,
+    "output": "Skill is valid!\n"
+  },
+  {
+    "skill": "video-rough-cut",
+    "exit": 0,
+    "output": "Skill is valid!\n"
+  },
+  {
+    "skill": "video-shorts",
+    "exit": 0,
+    "output": "Skill is valid!\n"
+  },
+  {
+    "skill": "video-style",
+    "exit": 0,
+    "output": "Skill is valid!\n"
+  },
+  {
+    "skill": "video-template-edit",
+    "exit": 0,
+    "output": "Skill is valid!\n"
+  },
+  {
+    "skill": "video-whiteboard",
+    "exit": 0,
+    "output": "Skill is valid!\n"
+  },
+  {
+    "skill": "work-build",
+    "exit": 0,
+    "output": "Skill is valid!\n"
+  },
+  {
+    "skill": "work-content",
+    "exit": 0,
+    "output": "Skill is valid!\n"
+  },
+  {
+    "skill": "work-freelance",
+    "exit": 0,
+    "output": "Skill is valid!\n"
+  },
+  {
+    "skill": "work-media",
+    "exit": 0,
+    "output": "Skill is valid!\n"
+  },
+  {
+    "skill": "work-research",
+    "exit": 0,
+    "output": "Skill is valid!\n"
+  },
+  {
+    "skill": "work-start",
+    "exit": 0,
+    "output": "Skill is valid!\n"
+  }
+]
