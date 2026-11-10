@@ -1,0 +1,6 @@
+interface:
+  display_name: "work-build"
+  short_description: "Chọn đúng quy trình và bàn giao có kiểm chứng"
+  default_prompt: "Dùng $work-build để xử lý yêu cầu và bàn giao kết quả kiểm chứng."
+policy:
+  allow_implicit_invocation: true
