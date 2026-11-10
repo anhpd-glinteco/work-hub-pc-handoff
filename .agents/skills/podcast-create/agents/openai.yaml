@@ -1,0 +1,6 @@
+interface:
+  display_name: "podcast-create"
+  short_description: "Chuyển nguồn thành kịch bản hội thoại và audio podcast."
+  default_prompt: "Dùng $podcast-create để thực hiện tác vụ và kiểm chứng đầu ra."
+policy:
+  allow_implicit_invocation: true

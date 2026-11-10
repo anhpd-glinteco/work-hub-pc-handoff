@@ -1,0 +1,6 @@
+interface:
+  display_name: "motion-graphics"
+  short_description: "Tạo chữ, sơ đồ và motion graphics giải thích nội dung."
+  default_prompt: "Dùng $motion-graphics để thực hiện tác vụ và kiểm chứng đầu ra."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "video-generative"
+  short_description: "Chuẩn bị và kiểm chứng clip tạo sinh theo shot và timestamp."
+  default_prompt: "Dùng $video-generative để thực hiện tác vụ và kiểm chứng đầu ra."
+policy:
+  allow_implicit_invocation: true

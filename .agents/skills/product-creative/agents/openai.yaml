@@ -1,0 +1,6 @@
+interface:
+  display_name: "product-creative"
+  short_description: "Làm ảnh và video sản phẩm từ thông tin có căn cứ."
+  default_prompt: "Dùng $product-creative để thực hiện tác vụ và kiểm chứng đầu ra."
+policy:
+  allow_implicit_invocation: true

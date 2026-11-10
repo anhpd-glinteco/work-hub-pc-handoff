@@ -1,0 +1,6 @@
+interface:
+  display_name: "image-edit"
+  short_description: "Tạo hoặc chỉnh ảnh theo yêu cầu và reference qua công cụ ảnh."
+  default_prompt: "Dùng $image-edit để thực hiện tác vụ và kiểm chứng đầu ra."
+policy:
+  allow_implicit_invocation: true

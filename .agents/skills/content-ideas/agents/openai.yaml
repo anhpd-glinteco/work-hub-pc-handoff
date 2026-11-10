@@ -1,0 +1,6 @@
+interface:
+  display_name: "content-ideas"
+  short_description: "Phát triển ý tưởng content từ chủ đề, đối tượng và nguồn."
+  default_prompt: "Dùng $content-ideas để thực hiện tác vụ và kiểm chứng đầu ra."
+policy:
+  allow_implicit_invocation: true

@@ -1,0 +1,6 @@
+interface:
+  display_name: "video-shorts"
+  short_description: "Chọn và dựng đoạn ngắn từ video dài với ngữ cảnh đầy đủ."
+  default_prompt: "Dùng $video-shorts để thực hiện tác vụ và kiểm chứng đầu ra."
+policy:
+  allow_implicit_invocation: true

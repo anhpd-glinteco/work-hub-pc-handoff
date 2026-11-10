@@ -1,0 +1,6 @@
+interface:
+  display_name: "audio-production"
+  short_description: "Tạo narration, làm sạch và phối audio local."
+  default_prompt: "Dùng $audio-production để thực hiện tác vụ và kiểm chứng đầu ra."
+policy:
+  allow_implicit_invocation: true
